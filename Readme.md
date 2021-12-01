@@ -1,17 +1,17 @@
-This automation is for adding moderator in multiple contest of HackerRank.
+# Automation for adding moderator in HackeRank contest 
 
-Commands:
+# Commands:
 
-# npm isntall
+ --npm isntall
 
-# npm init -y
+ --npm init -y
 
-# npm install minimist
+-- npm install minimist
 
-# npm install puppeteer
+-- npm install puppeteer
 
-Put your login id and password in config.json file
+ Put your login id and password in config.json file
 
-Then fire up terminal and run this line:
+ Then fire up terminal and run :
 
-# node auto.js --url=https://://www.hackerrank.com --config=config.json
+--node auto.js --url=https://://www.hackerrank.com --config=config.json
